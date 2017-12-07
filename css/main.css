@@ -1,0 +1,63 @@
+html {
+	margin: 0 auto;
+	padding: 0;
+	background-color: #FAFAFA;
+}
+
+.navigation {
+	background-color: #262626;
+    opacity: .90;
+    height: 44px;
+    text-align: center;
+
+}
+
+a.navigation {
+	text-decoration: none;
+	color: white;
+	width: 75%; 
+	margin: 20px auto;
+	font-family: 'Nunito', sans-serif;
+	font-size: 14px;
+}
+
+a:hover {
+	color: #808080;
+}
+
+.navigation ul {
+	margin: 0 auto;
+	padding-top: 13px;
+}
+
+.navigation ul li {
+	list-style-type: none;
+    display: inline;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0px 36px;
+}
+
+.iphone h1 {
+	font-size: 3.5em;
+    margin: 110px auto 20px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.iphone p {
+	margin: 21px auto 20px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.iphone img {
+	width: 50%;
+    margin: 56px auto;
+    display: block;
+}
+
+div.iphone {
+	background-color: #FAFAFA;
+}
